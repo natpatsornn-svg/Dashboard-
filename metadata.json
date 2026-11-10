@@ -1,0 +1,6 @@
+{
+  "name": "ระบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์",
+  "description": "ระบบเก็บแบบประเมินความพึงพอใจผู้เข้าอบรมผ่านมือถือ พร้อม Dashboard แสดงผลคะแนนเฉลี่ยรายข้อ แปลผล 5 ระดับ และข้อเสนอแนะขึ้นโปรเจกเตอร์แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
